@@ -19,7 +19,7 @@ git status
 
 echo **************************************************
 echo Pushing to GITHUB repository
-git push -u origin master
+git push https://github.com/L00187850/CLI
 echo **************************************************
 
 echo Done!
